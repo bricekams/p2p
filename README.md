@@ -6,3 +6,5 @@ Here you'll find a simple js Code using WebRTC to send text update between two p
 Resources:
 - [WebRTC Samples](https://github.com/webrtc/samples)
 - [Official Doc](https://webrtc.org/?hl=fr)
+
+<img src="./look.gif"/>
